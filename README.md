@@ -1,2 +1,2 @@
 # sample
-A sample app
+A sample app :)
